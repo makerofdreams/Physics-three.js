@@ -1,6 +1,6 @@
 # Physics-three.js
 
-Testing three.js + Cannon.js physics 
+Testing three.js visuals + Cannon.js physics 
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).

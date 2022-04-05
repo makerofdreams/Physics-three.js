@@ -16,3 +16,6 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+## Controls
+
+Use W, A, S, D or arrow keys to control the vehicle

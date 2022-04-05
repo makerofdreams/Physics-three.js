@@ -1,4 +1,4 @@
-# Physics-three.js
+# Three_and_Cannon_js
 
 Testing three.js visuals + Cannon.js physics 
 
